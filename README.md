@@ -1,13 +1,20 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahdi%20Asghari&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descSize=20&descAlignY=60" width="100%" alt="Mahdi Asghari Header"/>
 
-  # Hi there, I'm Mahdi Asghari! 👋
+  <br/>
 
-  ### 🤖 AI Research & Development Engineer
-  **Specializing in Deep Learning, Computer Vision & Edge AI Optimization**
-
-  [Website](https://mahdiasghari.ai) • [LinkedIn](https://www.linkedin.com/in/mahdi-asghari1996) • [Email](mailto:mahdiasghari5731@gmail.com)
+  <p>
+    <a href="https://mahdiasghari.ai" target="_blank">
+      <img src="https://img.shields.io/badge/Website-mahdiasghari.ai-blue?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" />
+    </a>
+    <a href="https://www.linkedin.com/in/mahdi-asghari1996" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+    </a>
+    <a href="mailto:mahdiasghari5731@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+    </a>
+  </p>
 
 </div>
 
@@ -15,50 +22,34 @@
 
 ### 👨‍💻 About Me
 
-I am a **Mechanical Engineer turned AI Engineer** with a strong foundation in mathematical modeling and optimization. I specialize in building modular AI systems, high-performance inference engines, and computer vision pipelines.
+I am a **Mechanical Engineer turned AI Engineer**, specializing in modular AI systems and high-performance inference engines.
 
-- 🔭 I’m currently working on **High-Performance Inference Engines (C++ & ONNX)** and **Edge AI Optimization** for stealth startups.
-- 🚀 Recent Project: Designed a **Local Video RAG** (Edge AI Search Engine) using C++, CLIP, and Vector Search without GPU dependency.
-- 🧠 I have experience with **Large Language Models (LLMs)**, **RAG Pipelines**, and **Quantization (Int8/QLoRA)**.
-- ⚡ Fun fact: I re-engineered a Python research pipeline into C++, achieving a **2.3x speedup**!
+- 🔭 Working on **C++ Inference Engines (ONNX)** and **Edge AI Optimization** for stealth startups.
+- 🚀 Created **Local Video RAG**: An offline video search engine using C++ & CLIP (No GPU needed).
+- ⚡ **Performance Highlight**: Re-engineered a Python pipeline into C++, achieving a **2.3x speedup**.
+- 🧠 Skilled in **LLMs, RAG Pipelines, and Quantization (Int8/QLoRA)**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark" alt="Languages" />
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI Frameworks" />
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux,mysql&theme=dark" alt="Tools" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,docker,aws,git,linux&theme=dark" />
 </div>
 
 <br/>
 
-| **Area** | **Technologies** |
+| **Focus Area** | **Tools & Technologies** |
 | :--- | :--- |
-| **Languages** | Python, C++, SQL |
-| **Deep Learning** | PyTorch, Transformers, LLMs (Qwen/Llama), LSTM, Seq2Seq |
-| **Computer Vision** | YOLOv8, Mediapipe, OpenCV, TorchReID, Tracking (DeepSort) |
-| **AI Engineering** | LangChain, ONNX Runtime, TensorRT, Quantization (Int8), RAG |
-| **ML Ops** | Git, CI/CD, AWS, GCP, Optuna |
+| **Core** | Python, C++, SQL |
+| **Deep Learning** | PyTorch, Transformers, LLMs (Qwen/Llama) |
+| **Vision & AI** | YOLOv8, Mediapipe, TorchReID, TensorRT, ONNX |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeAsghari&show_icons=true&theme=radical&count_private=true" height="180" alt="Mahdi Asghari's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAsghari&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Let's connect and build something amazing together!</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeAsghari&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAsghari&layout=compact&theme=radical&hide=html,css&hide_border=true&title_color=fff" height="160" />
 </div>
