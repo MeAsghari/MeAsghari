@@ -5,14 +5,11 @@
   <br/>
 
   <p>
-    <a href="https://mahdiasghari.ai" target="_blank">
-      <img src="https://img.shields.io/badge/Website-mahdiasghari.ai-blue?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" />
-    </a>
     <a href="https://www.linkedin.com/in/mahdi-asghari1996" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
     <a href="mailto:mahdiasghari5731@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/Email-mahdiasghari5731@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
     </a>
   </p>
 
@@ -49,7 +46,6 @@ I am a **Mechanical Engineer turned AI Engineer**, specializing in modular AI sy
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeAsghari&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAsghari&layout=compact&theme=radical&hide=html,css&hide_border=true&title_color=fff" height="160" />
-</div>
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeAsghari&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAsghari&layout=compact&theme=radical&hide=html,css&hide_border=true&title_color=fff)
