@@ -42,10 +42,3 @@ I am a **Mechanical Engineer turned AI Engineer**, specializing in modular AI sy
 | **Deep Learning** | PyTorch, Transformers, LLMs (Qwen/Llama) |
 | **Vision & AI** | YOLOv8, Mediapipe, TorchReID, TensorRT, ONNX |
 
----
-
-### 📊 GitHub Stats
-
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeAsghari&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAsghari&layout=compact&theme=radical&hide=html,css&hide_border=true&title_color=fff)
