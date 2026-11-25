@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahdi%20Asghari&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Agents%2C%20RAG%20%26%20Production%20Inference&descSize=20&descAlignY=60" width="100%" alt="Mahdi Asghari Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mahdi%20Asghari&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descSize=20&descAlignY=60" width="100%" alt="Mahdi Asghari Header"/>
   <br/>
   <p>
     <a href="https://www.linkedin.com/in/mahdi-asghari1996" target="_blank">
